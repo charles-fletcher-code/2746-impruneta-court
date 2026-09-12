@@ -22,7 +22,7 @@ Deployed at: `https://2746imprunetacourt.com` (TBD — domain confirmed when liv
 
 ## Status: LIVE LISTING — Pending items
 
-- [ ] **Matterport** — virtual tour URL not yet available; replace `PLACEHOLDER` in `#virtual-tour` iframe src
+- [x] **Matterport** — live at `https://my.matterport.com/show/?m=Dbzq4ZSEfdv&brand=0`
 - [x] **Formspree** — using shared form `xgojprov` (renamed in Formspree dashboard); endpoint: `https://formspree.io/f/xgojprov`
 - [x] **R2 photo upload** — 24 curated files uploaded; `index.html` updated to `https://pub-cc8b54c807594f42a7fadf16d0dba5e2.r2.dev/`
 - [x] **OG image** — `og:image` points to R2 hero URL
