@@ -43,7 +43,10 @@ Deployed at: `https://2746imprunetacourt.com` (TBD — domain confirmed when liv
 | G8 | `021_021_ejp_09092026_6144px_401.jpg` | Kitchen — island + range + barstools |
 | G9 | `027_027_ejp_09092026_6144px_963.jpg` | Family room — fireplace + TV + built-ins |
 | G10 | `032_046_ejp_09092026_6144px_177.jpg` | Primary bedroom — tray ceiling |
-| G11 | `035_049_ejp_09092026_6144px_4.jpg` | Primary bath — vanity + tub + shower |
+| G11 | `033_047_ejp_09092026_6144px_704.jpg` | Bedroom |
+| G12 | `034_048_ejp_09092026_6144px_319.jpg` | Bedroom |
+| G13 | `035_049_ejp_09092026_6144px_4.jpg` | Primary bath — vanity + tub + shower |
+| G14 | `037_034_ejp_09092026_6144px_733.jpg` | Bedroom |
 | G12 | `048_038_ejp_09092026_6144px_655.jpg` | Primary walk-in closet |
 | G13 | `043_041_ejp_09092026_6144px_320.jpg` | Front ensuite bedroom (multigenerational) |
 | G14 | `044_042_ejp_09092026_6144px_771.jpg` | Front ensuite bath — modern double vanity |
