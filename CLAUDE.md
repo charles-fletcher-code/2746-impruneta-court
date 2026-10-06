@@ -12,7 +12,7 @@ Deployed at: `https://2746imprunetacourt.com` (TBD — domain confirmed when liv
 |---|---|
 | Address | 2746 Impruneta Court, Livermore, CA 94550 |
 | Neighborhood | The Corners |
-| Price | $2,200,000 |
+| Price | $2,125,000 |
 | Beds | 4 |
 | Baths | 3.5 |
 | Interior Sq Ft | 3,335 |
